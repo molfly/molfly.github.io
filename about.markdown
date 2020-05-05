@@ -1,18 +1,9 @@
 ---
 layout: page
-title: About
+title: О блоге
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+  1 февраля 2020 года я снова начал изучать программирование. 
+  Мой интерес, сейчас, направлен в сторону [JS][https://twitter.com/molflyj] и COBOL.
+  В этом блоге, пишу про курс «Начало работы» на языке COBOL от IBM и собираю другие материалы о текущем положении дел.
