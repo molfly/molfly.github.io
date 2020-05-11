@@ -14,6 +14,6 @@ categories: cobol
 
 Первая проблема, по факту, решается в других языках, банки, я напомню, успешно работают на Java. Вторая, тянет за собой ряд организационно-политических вопросов. Достаточно сложных вопросов, чтобы рисковать миллиардами долларов. При существующем уровне поддержки ведора, можно никуда не уходить. Вопрос же с человеческис фактором - программистами на COBOL, на сегодняшний день, остаётся открытым. 
 
-[ibm-open-mainframe-project-launch-initiative-to-help-train-cobol-coders]": https://www.zdnet.com/article/ibm-open-mainframe-project-launch-initiative-to-help-train-cobol-coders/
+[ibm-open-mainframe-project-launch-initiative-to-help-train-cobol-coders]: https://www.zdnet.com/article/ibm-open-mainframe-project-launch-initiative-to-help-train-cobol-coders/
 [habr-cobol-1]: https://habr.com/ru/company/ruvds/blog/467251/
 [habr-cobol-2]: https://habr.com/ru/company/ruvds/blog/467253/
