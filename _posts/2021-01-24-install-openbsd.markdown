@@ -80,7 +80,7 @@ Exit to (S)hell, (H)alt or (R)eboot? [reboot] **H**
 
 В полном варианте я постарался отразить весь необходимый листинг, который был в этот момент на экране. 
 
-```bash
+```
 
 Welcome to the OpenBSD/amd64 6.7 installation program.
 (I)nstall, (U)pgrade, (A)utoinstall or (S)hell? I
