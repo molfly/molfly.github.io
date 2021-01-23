@@ -23,31 +23,57 @@ OpenBSD 6.7 я буду ставить на стационарный компь�
 В кратком варианте, после квадратных скобок, указаны варианты выбранные при конфигурирования моей системы.
 
 Choose your keyboard layout ('?' or 'L' for list) [default] **default**
+
 System hostname? (short form, e.g. 'foo') **my_comp_name**
+
 Which network interface do you wish to configure? (or 'done') [fxp0] **fxp0**
+
 IPv4 address for fxp0 (or 'dhcp' or 'none') [dhcp] **dhcp**
+
 IPv6 address for fxp0 (or 'autoconf' or 'none') [none] **none**
+
 Which network interface do you wish to configure? (or 'done') [done] **done**
+
 DNS domain name? (e.g. 'example.com') [my.domain] **my.domain**
+
 Password for root account? (whill note echo) _
+
 Password for root account? (again) _
+
 Start sshd(8) by default? [yes] **yes**
+
 Do you expect to run the X Window System? [yes] **no**
+
 Change the default console to com8? [no] **no**
+
 Setup a user? (enter a lower-case loginname, or 'no') [no] **user1**
+
 Full name for user user1? [user1] **User User**
+
 Password for user user1? (whill note echo) _
+
 Password for user user1? (again) _
+
 Allow root ssh login? (yes, no, prohibit-password) [no] **no**
+
 What timezone are you in? ('?' for list) [Asia/Yekaterinburg] **Asia/Yekaterinburg**
+
 Which disk is the root disk? ('?' for details) [wd0] **wd0**
+
 Use (W)hole disk MBR, whole disk (G)PT, (O)penBSD area or (E)dit? [OpenBSD] **W**
+
 Use (A)uto layout, (E)dit auto layout, or create (C)ustom layout? [a] **A**
+
 Location of sets? (disk http nfs or 'done') [http] **http**
+
 HTTP proxy URL? (e.g. `'http://proxy:8080'`, or 'none') [none] **none**
+
 HTTP Server? (hostname, list#, 'done' or '?') **cdn.openbsd.org**
+
 Set name(s)? (or 'about' or 'done') [done] **done**
+
 Location of sets? (disk http nfs or 'done') [done] **done**
+
 Exit to (S)hell, (H)alt or (R)eboot? [reboot] **H**
 
 ### Полный вариант
